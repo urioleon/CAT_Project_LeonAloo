@@ -1,0 +1,25 @@
+header{
+    background-color:yellowgreen;
+    font-size: x-large;
+}
+body{
+background-color: azure;
+}
+p{
+    font-size: x-large;
+    font-style: italic;
+}
+h3{
+    font-size: x-large;
+    font-style: italic;
+    background-color: yellowgreen;
+}
+h4{
+    background-color: yellowgreen;
+    font-size: x-large;
+    font-style: italic;
+}
+footer{
+    background-color: yellowgreen;
+    font-size: x-large;
+}
